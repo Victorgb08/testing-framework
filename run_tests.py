@@ -1,6 +1,3 @@
-# Este script foi implementado como parte da Questão 7: Executando Todos os Testes
-# Ele utiliza TestLoader, TestSuite e TestRunner para executar todas as classes de teste.
-
 from test_loader import TestLoader
 from test_runner import TestRunner
 from test_case_test import TestCaseTest
